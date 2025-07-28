@@ -5,6 +5,9 @@ This project enables you to provide a set of guidelines for your content (images
 **Note:** this is a demo for a larger project that has been provided to a government authority in Saudi Arabia. For this reason, this demo makes API calls to other services (S3 file upload and Gemini) that I built for Dragify during my time at Cloudilic and which I don't have permission to expose publicly. 
 
 ---
+## A snapshot of the results:
+![Screenshot of the UI](./UI/public/Screenshot.png)
+---
 
 ## Getting Started
 
