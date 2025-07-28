@@ -1,0 +1,73 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+dist/
+build/
+client/build/
+server/dist/
+
+# Optional npm cache directory
+.npm/
+
+# Environment variables
+.env
+.env.*.local
+client/.env
+server/.env
+
+# Next.js/React/Vite specific
+.next/
+out/
+.vite/
+*.tsbuildinfo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Test coverage
+coverage/
+client/coverage/
+server/coverage/
+
+# MongoDB data dump
+dump/
+
+# Local database files
+*.local.db
+*.sqlite
+
+# misc
+*.tgz
+*.log.*
+
+# React dev tools and browser extensions
+.local-chromium/
+
+# Optional Docker files
+docker-compose.override.yml
